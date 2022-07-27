@@ -1,0 +1,31 @@
+.mainDiv1{
+    width:30%;
+    height:400px;
+    margin-left:35%;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+    background-color: rgb(80, 97, 197);
+    border-radius: 2rem;
+}
+
+.heading{
+    margin-left: 30%;
+    margin-top: 1%;
+    color: white;
+}
+.alpha{
+    margin-left: 35%;
+    color: white;
+}
+.beta{
+    margin-left: 9.6%;
+    width:80%;
+    padding:1%;
+    border-radius: 0.5rem;
+}
+.button{
+    margin-left: 40%;
+}
+.browser{
+    margin-left: 8%;
+}

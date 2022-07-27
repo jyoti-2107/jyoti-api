@@ -1,0 +1,21 @@
+.active{
+    border-bottom: 2px solid #20638f ;
+  }
+  .logo:hover{
+background: #000;
+  }
+  .container{
+    max-width: 1000px;
+    /* padding-top: 1%; */
+}
+.py-5{
+    padding-top: 1%!important;
+    padding-bottom: 0.2%!important;
+}
+.py-4{
+    padding-top: 0%!important;
+    padding-bottom: 0%!important;
+}
+.bg-light{
+    background-color: rgb(118, 212, 176)!important;
+}

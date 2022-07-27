@@ -1,0 +1,10 @@
+.bg-light{
+    background-color: rgb(199, 131, 151)!important;
+}
+.table tr:hover{
+    background-color: rgb(201, 202, 204);
+
+}
+.delete{
+    text-decoration: none;
+}
